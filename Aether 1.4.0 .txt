@@ -1,7 +1,1 @@
-{ 
-"version":"1.0",
-"title":"کاربر گرامی 🔥",
-"description":"جهت مطلع شدن از اپدیت این برنامه و دسترسی به برنامه های مود بیشتر در کانال اصلی ما عضو شوید ♥️",
-"download":"tg://resolve?domain=Vpn_",
-"buttonno":"no"
-}
+{"title":"کاربر گرامی ","message":"جهت استفاده از این Vpn و دسترسی به فیلتر شکن های مود در کانال تلگرام ما عضو شوید  ♥️","dismissable":false,"dismissTxt":"رد","okTxt":" عضویت در تلگرام 🟢","okUrl":"tg://join?invite=_PZZYIT1lq84OTJk","status":"ok"}
