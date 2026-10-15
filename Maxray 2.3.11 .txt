@@ -3,5 +3,5 @@
 "title":"کاربر گرامی 🔥",
 "description":"بروزرسانی برنامه مود بزودی در کانال ما قرار میگیرید ، جهت اپدیت در کانال تلگرام ما عضو شوید ♥️",
 "download":"tg://resolve?domain=VPN_irany",
-"buttonno":"no"
+"buttonno":"yes"
 }
