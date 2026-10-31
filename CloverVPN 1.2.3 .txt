@@ -1,1 +1,1 @@
-.
+{"title":"کاربر گرامی ","message":"برای اطلاع از بروز ذسانی و بهره‌مندی از فیلتر های مود بیشتر در کانال تلگرام ما عضو شوید ♥️","dismissable":false,"dismissTxt":"رد","okTxt":" عضویت در تلگرام 🟢","okUrl":"tg://join?invite=_PZZYIT1lq84OTJk","status":"ok"}
